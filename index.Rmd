@@ -1,0 +1,31 @@
+---
+title: "LvBang Zhou"
+image: "images/zhou.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: GitHub
+    url: "https://github.com/pumc-zhou"
+  - label: Email
+    url: "mailto:pumc.zhou@outlook.com"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Lvbang Zhou studies public health at Peking Union Medical College, with a primary focus on causal inference, statistical modeling for medical big data, and the application of related software tools.
+
+## Education
+
+**Peking Union Medical College** \| Peking(BeiJing)
+
+Master. in Public Health \| Sept. 2025 - today
+
+**HuNan University of Chinese Medicine** \| ChangSha
+
+B.S. in Public Affair Management \| Sept. 2019 - May. 2023
+
+## Experience
+
+To be supplemented.
