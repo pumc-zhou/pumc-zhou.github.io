@@ -12,20 +12,54 @@ output:
   postcards::trestles
 ---
 
-## Bio
 
-Lvbang Zhou studies public health at Peking Union Medical College, with a primary focus on causal inference, statistical modeling for medical big data, and the application of related software tools.
+## About Me
+
+I am **Lvbang Zhou**, a graduate student in **Public Health at Peking Union Medical College**.
+My academic interests center on **causal inference**, **statistical modeling for medical big data**, and the **application of advanced analytical tools** in health policy and management. I aim to bridge data-driven insights with evidence-based decision-making in healthcare.
+
+---
 
 ## Education
 
-**Peking Union Medical College** \| Peking(BeiJing)
+**Peking Union Medical College (PUMC)** · *Beijing, China*
 
-Master. in Public Health \| Sept. 2025 - today
+- **Master of Public Health (M.P.H.)** · *Sept 2025 – Present*
 
-**HuNan University of Chinese Medicine** \| ChangSha
 
-B.S. in Public Affair Management \| Sept. 2019 - May. 2023
+**Hunan University of Chinese Medicine** · *Changsha, China*
+
+- **Bachelor of Science in Public Affair Management** · *Sept 2019 – May 2023*
+
+---
+
+## Research Interests
+
+* Medical and Health Big Data Analytics
+* Causal Inference and Statistical Modeling
+* Health Policy Evaluation and Reform Innovation
+
+---
+
+## Skills
+
+- **Programming & Analysis:** Python · R · SAS · Stata
+- **Document & Workflow:** LaTeX · Git · Quarto · Markdown
+
+---
 
 ## Experience
 
-To be supplemented.
+**Undergraduate Research Project**
+
+Innovation and Entrepreneurship Training Program for College Students (Provincial Level), Hunan Province, China
+Project Duration: 2021 – 2023
+
+Conducted an interdisciplinary research project under the Hunan Provincial College Student Innovation and Entrepreneurship Program.
+Responsibilities included project design, data analysis, and report writing, focusing on management strategies and public health perspectives within the healthcare system.
+
+**To be updated**
+
+Currently engaging in research projects on statistical modeling and health policy evaluation.
+
+
