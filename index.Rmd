@@ -1,5 +1,5 @@
 ---
-title: "LvBang Zhou"
+title: "LyuBang Zhou"
 image: "images/zhou.png"
 links:
   - label: LinkedIn
@@ -10,13 +10,12 @@ links:
     url: "mailto:pumc.zhou@outlook.com"
 output:
   postcards::trestles
-output_file: "docs/index.html"
 ---
 
 
 ## About Me
 
-I am **Lvbang Zhou**, a graduate student in **Public Health at Peking Union Medical College**.
+I am **Lyubang Zhou**, a graduate student in **Public Health at Peking Union Medical College**.
 
 My academic interests center on **causal inference**, **statistical modeling for medical big data**, and the **application of advanced analytical tools** in health policy and management. 
 
