@@ -10,13 +10,17 @@ links:
     url: "mailto:pumc.zhou@outlook.com"
 output:
   postcards::trestles
+output_file: "docs/index.html"
 ---
 
 
 ## About Me
 
 I am **Lvbang Zhou**, a graduate student in **Public Health at Peking Union Medical College**.
-My academic interests center on **causal inference**, **statistical modeling for medical big data**, and the **application of advanced analytical tools** in health policy and management. I aim to bridge data-driven insights with evidence-based decision-making in healthcare.
+
+My academic interests center on **causal inference**, **statistical modeling for medical big data**, and the **application of advanced analytical tools** in health policy and management. 
+
+I aim to bridge data-driven insights with evidence-based decision-making in healthcare.
 
 ---
 
@@ -24,20 +28,21 @@ My academic interests center on **causal inference**, **statistical modeling for
 
 **Peking Union Medical College (PUMC)** · *Beijing, China*
 
-- **Master of Public Health (M.P.H.)** · *Sept 2025 – Present*
+- Master,Public Health (M.P.H.) · *Sept 2025 – Present*
 
 
 **Hunan University of Chinese Medicine** · *Changsha, China*
 
-- **Bachelor of Science in Public Affair Management** · *Sept 2019 – May 2023*
+- Bachelor,Public Affair Management · *Sept 2019 – May 2023*
 
 ---
 
 ## Research Interests
 
-* Medical and Health Big Data Analytics
-* Causal Inference and Statistical Modeling
-* Health Policy Evaluation and Reform Innovation
+- Health policy evaluation (e.g., DIP, value-based payment, drug policy)
+- Medical & health big-data analytics
+- Causal inference (DiD, synthetic control, propensity score methods)
+- Statistical modeling & machine learning for healthcare
 
 ---
 
@@ -62,4 +67,7 @@ Responsibilities included project design, data analysis, and report writing, foc
 
 Currently engaging in research projects on statistical modeling and health policy evaluation.
 
+# Contact
+
+Feel free to reach out via Email(Pumc.zhou\@outlook.com) or explore my work on GitHub.
 
